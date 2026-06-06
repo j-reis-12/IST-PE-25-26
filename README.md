@@ -3,7 +3,7 @@
 > Iniciação ao estudo da análise de dados estatísticos, teoria da probabilidade e inferência
 > estatística, tendo em vista a compreensão e aplicação dos seus principais conceitos e métodos.
 
-## Project - Statistical Computing & Data Analysis in R
+## Project - Statistical Computing & Data Analysis
 
 ### Goal
 Develop a unified collection of statistical analysis exercises implemented in R, covering
