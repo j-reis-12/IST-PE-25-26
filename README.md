@@ -1,7 +1,7 @@
 # Probability and Statistics
 
-> Iniciação ao estudo da análise de dados estatísticos, teoria da probabilidade e inferência
-> estatística, tendo em vista a compreensão e aplicação dos seus principais conceitos e métodos.
+> Master concepts of statistical data analysis, probability theory and statistical inference to
+> understanding and applying such concepts to solve real-life problems in engineering and science.
 
 ## Project - Statistical Computing & Data Analysis
 
